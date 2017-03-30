@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?><books>
+    <book>
+        <name>dtd</name>
+        <author>dyq</author>
+        <price>543</price>
+    <time>2018-11-11</time><time>2018-11-11</time><testnode>98235243</testnode></book>
+    <book>
+        <name>java</name>
+        <author>dwc</author>
+        <price>432</price>
+    </book>
+<book><name>computer</name><author>saiu</author><price>543</price></book></books>
